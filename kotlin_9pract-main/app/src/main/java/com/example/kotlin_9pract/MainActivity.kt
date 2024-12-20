@@ -37,7 +37,7 @@ fun StudentInfoScreen() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Черепов Михаил Борисович",
+            text = "Малкин Глеб Дмитриевич",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold
         )
